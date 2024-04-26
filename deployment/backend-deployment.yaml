@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
         - name: example-backend
-          image: theengx/example-backend:1.1.1
+          image: theengx/example-backend:1.0.2
           imagePullPolicy: IfNotPresent
           resources:
             requests:
